@@ -12,7 +12,7 @@
 
 ```
 
-install dependencies
+install dependencies al iniciar
 
 ```
 npm
